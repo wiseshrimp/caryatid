@@ -2,7 +2,7 @@ const Airtable = require('airtable')
 const SerialPort = require('serialport')
 const Readline = require('@serialport/parser-readline')
 
-const API_KEY = 'keyj9iu9X8Ty5pwtI'
+const API_KEY
 const WHICH_ID = 'reciffh4Y1Z8Oaf2Q'
 const SERIAL_PORT_PATH = '/dev/tty.usbmodem14101'
 
